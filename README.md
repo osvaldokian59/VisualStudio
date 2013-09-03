@@ -1,0 +1,4 @@
+VisualStudio
+============
+
+LightSwitch Projects
