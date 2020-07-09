@@ -24,6 +24,7 @@
     <script type="text/javascript">
         function checkDirty(e) {
             var needConform = false;
+            var message = 'Puede perder toda la informacion no guardada.'; // default message
 
             var silverlightControl = document.getElementById("SilverlightApplication").Content;
             if (silverlightControl) {
